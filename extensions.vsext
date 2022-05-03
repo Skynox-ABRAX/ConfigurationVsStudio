@@ -1,0 +1,56 @@
+{
+  "id": "d874bb62-4d02-43e6-bead-944ef7a9041f",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Add New File (64-bit)",
+      "vsixId": "d48e8f25-661b-4970-8b66-03f051ba5fc3"
+    },
+    {
+      "name": "Color Preview",
+      "vsixId": "EditorColorPreview.06059b78-ceae-4188-905d-be8877234e35"
+    },
+    {
+      "name": "Extension Manager 2022",
+      "vsixId": "4a196712-2c3f-4730-ad1d-e7cda4185eb3"
+    },
+    {
+      "name": "Git Extensions",
+      "vsixId": "GitExtensions..555013F5-337C-4750-8967-DDEEEC2EB497"
+    },
+    {
+      "name": "ILSpy 2022",
+      "vsixId": "ebf12ca7-a1fd-4aee-a894-4a0c5682fc2f"
+    },
+    {
+      "name": "Live Share 2022",
+      "vsixId": "Microsoft.VisualStudio.LiveShare.2022"
+    },
+    {
+      "name": "Microsoft Reporting Services Projects 2022",
+      "vsixId": "c908b653-e610-447e-9f48-fda740e2b498"
+    },
+    {
+      "name": "ML.NET Model Builder 2022",
+      "vsixId": "A274A0E2-E41E-40CC-A694-8D5D14BBD2D0"
+    },
+    {
+      "name": "Move Type To File - 2022",
+      "vsixId": "VS2017.8015c581-31ee-4b02-802a-37dc73a3c7df"
+    },
+    {
+      "name": "Snippet Designer 2022",
+      "vsixId": "d21b0d98-7dad-421e-895e-424a0a4e6f0d"
+    },
+    {
+      "name": "Visual Studio Show Inline Errors",
+      "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa"
+    },
+    {
+      "name": "VsVim 2022",
+      "vsixId": "VsVim.Microsoft.e97cd707-324b-4e35-a669-eef8dae4b8cf"
+    }
+  ]
+}
