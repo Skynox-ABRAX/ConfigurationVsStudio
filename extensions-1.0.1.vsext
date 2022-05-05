@@ -1,0 +1,136 @@
+{
+  "id": "aa6dc844-fe75-4447-b15f-b30cdcbaecf2",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Add New File (64-bit)",
+      "vsixId": "d48e8f25-661b-4970-8b66-03f051ba5fc3"
+    },
+    {
+      "name": "Auto Save File",
+      "vsixId": "AutoSaveFile.dee600b4-1678-4538-bad2-bc1e05056118"
+    },
+    {
+      "name": "Clear MEF Component Cache",
+      "vsixId": "f5028141-9dd0-4ac4-ae6d-0481ae9a940d"
+    },
+    {
+      "name": "Color Preview",
+      "vsixId": "EditorColorPreview.06059b78-ceae-4188-905d-be8877234e35"
+    },
+    {
+      "name": "Extensibility Essentials 2022",
+      "vsixId": "4c38fd13-e407-4da6-a7b2-a04346af8943"
+    },
+    {
+      "name": "Extensibility Margin",
+      "vsixId": "41b4c077-6d9f-4e0a-a356-988baf3e830a"
+    },
+    {
+      "name": "Extensibility Template Pack 2022",
+      "vsixId": "88049e1e-62f2-4ea2-851f-9ddb2de37f42"
+    },
+    {
+      "name": "Extension Manager 2022",
+      "vsixId": "4a196712-2c3f-4730-ad1d-e7cda4185eb3"
+    },
+    {
+      "name": "Git Extensions",
+      "vsixId": "GitExtensions..555013F5-337C-4750-8967-DDEEEC2EB497"
+    },
+    {
+      "name": "GitHub Copilot",
+      "vsixId": "GitHub.Copilot"
+    },
+    {
+      "name": "ILSpy 2022",
+      "vsixId": "ebf12ca7-a1fd-4aee-a894-4a0c5682fc2f"
+    },
+    {
+      "name": "Image Manifest Tools",
+      "vsixId": "04f92311-4748-4f87-9d94-1aae42483d1f"
+    },
+    {
+      "name": "Insert Guid",
+      "vsixId": "9def4441-acfd-4dd6-bffd-4531a57dee37"
+    },
+    {
+      "name": "KnownMonikers Explorer 2022",
+      "vsixId": "c38f3512-4653-4d97-a4c5-860a425209f6"
+    },
+    {
+      "name": "Live Share 2022",
+      "vsixId": "Microsoft.VisualStudio.LiveShare.2022"
+    },
+    {
+      "name": "Microsoft RDLC Report Designer 2022",
+      "vsixId": "B12781A3-35C8-446D-BD72-6051FCA1CBF9"
+    },
+    {
+      "name": "Microsoft Reporting Services Projects 2022",
+      "vsixId": "c908b653-e610-447e-9f48-fda740e2b498"
+    },
+    {
+      "name": "Microsoft Visual Studio Installer Projects 2022",
+      "vsixId": "VSInstallerProjects2022"
+    },
+    {
+      "name": "ML.NET Model Builder 2022",
+      "vsixId": "A274A0E2-E41E-40CC-A694-8D5D14BBD2D0"
+    },
+    {
+      "name": "Move Type To File - 2022",
+      "vsixId": "VS2017.8015c581-31ee-4b02-802a-37dc73a3c7df"
+    },
+    {
+      "name": "Open in Visual Studio Code",
+      "vsixId": "e99dde0e-e023-410d-bc5d-3f76db71e3f0"
+    },
+    {
+      "name": "Pkgdef Language",
+      "vsixId": "06278dd5-5d9d-4f27-a3e8-cd619b101a50"
+    },
+    {
+      "name": "Snippet Designer 2022",
+      "vsixId": "d21b0d98-7dad-421e-895e-424a0a4e6f0d"
+    },
+    {
+      "name": "Solution Error Visualizer 2022",
+      "vsixId": "SolutionErrorVisualizer2022.a392f96b-6b33-4b53-b4bb-3376a05f986c"
+    },
+    {
+      "name": "Text Macros for Visual Studio 2019-2022",
+      "vsixId": "6d613d99-e83f-4532-a1d8-e188e419460c"
+    },
+    {
+      "name": "Textmate Grammar Template",
+      "vsixId": "2913ed5b-5767-43f5-be7c-ff5c68754bc3"
+    },
+    {
+      "name": "Visual Studio Show Inline Errors",
+      "vsixId": "InlineErrorAdornment.a0918553-b2ac-46fc-b5d6-9d7284b9f2fa"
+    },
+    {
+      "name": "VS Theme Colors 2022",
+      "vsixId": "6ad27930-f7a1-4888-a172-c6fa4440e7a1"
+    },
+    {
+      "name": "VSCode Theme Converter",
+      "vsixId": "ThemeConverter.df309c71-fe30-4f88-bf07-d73fbc24fd11"
+    },
+    {
+      "name": "VSCT IntelliSense 2022",
+      "vsixId": "6c042f35-bf5c-4cf2-826e-05d6d12e5300"
+    },
+    {
+      "name": "VsVim 2022",
+      "vsixId": "VsVim.Microsoft.e97cd707-324b-4e35-a669-eef8dae4b8cf"
+    },
+    {
+      "name": "ZenCoding",
+      "vsixId": "9514d70e-a7b1-4876-847d-b0d2ad0962bf"
+    }
+  ]
+}
